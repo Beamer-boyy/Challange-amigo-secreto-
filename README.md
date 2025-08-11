@@ -1,1 +1,5 @@
-# Challange-amigo-secreto-
+# Challange amigo secreto
+
+#Tecnologias usadas 
+
+#Funcionalidades 
