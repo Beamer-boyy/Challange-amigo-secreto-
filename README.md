@@ -1,5 +1,5 @@
 # Challange amigo secreto
 
-#Tecnologias usadas 
+# 🚀 Tecnologias usadas 
 
-#Funcionalidades 
+#  Funcionalidades 
