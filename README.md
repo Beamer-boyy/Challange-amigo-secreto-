@@ -22,4 +22,4 @@ Projeto simples feito com HTML, CSS e JavaScript que permite adicionar nomes de 
 
 # 📸 Prévia
 
-![Preview do projeto](assets/amigo-secreto.png)
+![Preview do projeto](assets/Amigo-secreto.png)
