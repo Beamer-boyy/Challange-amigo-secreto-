@@ -2,6 +2,10 @@
 
 Projeto simples feito com HTML, CSS e JavaScript que permite adicionar nomes de amigos e realizar um sorteio aleatório. Ideal para fins educativos ou brincadeiras de amigo secreto.
 
+# 📸 Prévia
+
+![Preview do projeto](assets/preview.png)
+
 ## 🚀 Tecnologias usadas
 - HTML5
 - CSS3
@@ -20,6 +24,4 @@ Projeto simples feito com HTML, CSS e JavaScript que permite adicionar nomes de 
 2. Abra o arquivo index.html no navegador.
 3. Adicione os nomes e clique em Sortear amigo.
 
-# 📸 Prévia
 
-![Preview do projeto](assets/preview.png)
